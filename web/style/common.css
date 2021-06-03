@@ -1,0 +1,11 @@
+    body {background-color:#8A8A8A;}
+    p    {padding:0px 40px; }
+    h2 {width:770px;text-align:center; font-size:33px; color:#8A8A8A;
+    letter-spacing:0.05em; border-bottom: 1px solid #8A8A8A;}
+    h3 {clear:both; width:150px; margin:20px 10px 3px 10px; padding:3px 4px;
+    font-size:16px; color:#8A8A8A; letter-spacing:0.05em; border-bottom:#8A8A8A dotted 2px;}
+    #territory {text-align:left; width:800px; margin:0 auto; padding:0; background:url(../image/middle.gif) repeat-y;}
+    #header {width:800px; height:10px; margin:0; padding:0; background:url(../image/header.gif) no-repeat;}
+    #footer {width:800px; height:10px; margin:0; padding:0;}
+    #main   {width:800px; margin:0; padding-left: 20px;}
+    #copyright {clear:both; width:770px; margin:20px 10px 3px 10px; padding:3px 4px; font-size:10px; text-align:right; color:#8A8A8A; letter-spacing:0.05em; border-top:#8A8A8A dotted 1px;}

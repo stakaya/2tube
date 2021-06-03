@@ -1,0 +1,11 @@
+PackageURL = http://localhost/Youtube.jar
+AppSize = 23036
+AppName = 2tube
+AppClass = Youtube
+SPsize = 204800
+UseBrowser = launch
+UseNetwork = http
+AccessUserInfo = yes
+LastModified = Tue, 28 Jul 2009 10:07:14
+GetUtn = terminalid,userid
+AppIcon = icon.gif
